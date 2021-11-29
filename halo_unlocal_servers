@@ -1,0 +1,13 @@
+ 0.0.0.0 pfmsqos.australiaeast.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.australiasoutheast.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.southafricanorth.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.southcentralus.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.japaneast.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.japanwest.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.westus.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.westus2.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.northcentralus.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.eastus2.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.eastus.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.centralus.cloudapp.azure.com
+ 0.0.0.0 pfmsqos.brazilsouth.cloudapp.azure.com
